@@ -1,7 +1,7 @@
 # datasets
 Public datasets
 
-Data are provided by https://covid-self-report.ch/
+Data provided by https://covid-self-report.ch/
 
 ## CSV header map
 | header | What |
