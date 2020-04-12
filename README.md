@@ -62,7 +62,7 @@ _
 
 
 ## Other
-//datawrapper.dwcdn.net/HDNs1/1/
+https://datawrapper.dwcdn.net/HDNs1/1/
 
 <iframe title="Income per person in the last 12 months (in 2017 US-Dollar)" aria-label="USA counties (2018) choropleth map" id="datawrapper-chart-HDNs1" src="//datawrapper.dwcdn.net/HDNs1/1/" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 712px;" height="715" frameborder="0"></iframe><script type="text/javascript">(function() {    'use strict';    window.addEventListener('message', function(event) {        if (typeof event.data['datawrapper-height'] !== 'undefined') {            for (var chartId in event.data['datawrapper-height']) {                var iframe = document.getElementById('datawrapper-chart-' + chartId) || document.querySelector("iframe[src*='" + chartId + "']");                if (!iframe) {                    continue;                }                iframe.style.height = event.data['datawrapper-height'][chartId] + 'px';            }        }    });})();</script>
   
